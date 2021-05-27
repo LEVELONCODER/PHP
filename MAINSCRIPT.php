@@ -1,0 +1,4 @@
+<?php
+
+
+link("main.sql");
